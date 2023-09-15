@@ -1,0 +1,19 @@
+{
+  "name": "express_repo011",
+  "version": "1.0.0",
+  "description": "Express challenge homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/JeehawdJack/EXPRESS_REPO011.git"
+  },
+  "author": "John \"Jack\" Simeoni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeehawdJack/EXPRESS_REPO011/issues"
+  },
+  "homepage": "https://github.com/JeehawdJack/EXPRESS_REPO011#readme"
+}
